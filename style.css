@@ -96,5 +96,5 @@ body {
 #box .top::before {
     content: '';
     position: absolute;
-    width: 100%;
+    width: 100%;height: 60px;
 }
