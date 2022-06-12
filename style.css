@@ -36,5 +36,5 @@ body {
     display: block;
     background: #333;
     display: flex;
-    justify-content: center;
+    justify-content: center;align-items: center;
 }
