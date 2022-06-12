@@ -65,7 +65,9 @@ body {
 #box div span:nth-child(3) {
     transform: rotateY(180deg) translate3d(0, 0, 150px);
     background: #d8aa77;
-}#box div span:nth-child(1)::before {
+}
+
+#box div span:nth-child(1)::before {
     content: '';
     position: absolute;
     width: 300px;
