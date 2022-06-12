@@ -35,5 +35,5 @@ body {
     height: 100%;
     display: block;
     background: #333;
-    display: flex;
+    display: flex;justify-content: center;
 }
