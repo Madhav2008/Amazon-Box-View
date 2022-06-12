@@ -47,7 +47,7 @@ body {
 }
 
 #box div span:nth-child(1)::before {
-    content: '';
+    content: '';position: absolute;
 }
 
 #box div span:nth-child(2) {
