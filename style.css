@@ -94,5 +94,6 @@ body {
 }
 
 #box .top::before {
-    content: '';position: absolute;
+    content: '';
+    position: absolute;
 }
