@@ -27,7 +27,7 @@ body {
     width: 300px;
     height: 300px;
     background: #111;
-    transform: rotateX(90deg) translateZ(-250px);
+    transform: rotateX(90deg) translateZ(-220px);
 }
 
 #box div {
