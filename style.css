@@ -106,7 +106,7 @@ body {
 
 .tape {
     position: absolute;
-    top: 0;
+    top: 30px;
     left: 50%;
     transform: translateX(-50%) rotate(90deg);
     width: 120px;
