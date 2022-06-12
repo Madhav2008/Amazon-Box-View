@@ -134,4 +134,6 @@ span:nth-child(4) .tape {
     background-position-x: 30px;
 }
 
-@keyframes animate {0%}
+@keyframes animate {
+    0%
+}
