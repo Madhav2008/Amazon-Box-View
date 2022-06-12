@@ -27,4 +27,6 @@ body {
     transform-style: preserve-3d;
 }
 
-#box div span {position: absolute;}
+#box div span {
+    position: absolute;
+}
