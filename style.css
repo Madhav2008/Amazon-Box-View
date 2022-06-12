@@ -20,7 +20,7 @@ body {
 }
 
 #box::before {
-    content: '';
+    content: '';position: absolute;
 }
 
 #box div {
