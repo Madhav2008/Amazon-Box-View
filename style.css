@@ -112,5 +112,6 @@ body {
     width: 120px;
     height: 60px;
     background: #111 url(tape.png);
-    background-size: 85px;background-position-x: 45px;
+    background-size: 85px;
+    background-position-x: 45px;
 }
