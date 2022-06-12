@@ -102,7 +102,7 @@ body {
     background: #d8aa77;
 }
 
-#box div span:nth-child(1) {
+#box1 div span:nth-child(1) {
     transform: rotateY(0deg) translate3d(0, 0, 150px);
     background: #d8aa77;
 }
