@@ -42,6 +42,6 @@ body {
 }
 
 #box div span:nth-child(1) {
-    transform: ;
+    transform: rotateY(0deg);
     background: #d8aa77;
 }
