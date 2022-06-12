@@ -176,7 +176,7 @@ body {
     background: #ca9864;
 }
 
-#box div span:nth-child(4) {
+#box1 div span:nth-child(4) {
     transform: rotateY(270deg) translate3d(0, 0, 150px);
     background: #ca9864;
 }
