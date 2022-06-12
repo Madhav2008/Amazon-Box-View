@@ -93,4 +93,4 @@ body {
     transform: rotateX(90deg) translate3d(0, 0, 150px);
 }
 
-#box .top
+#box .top::before
