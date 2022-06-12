@@ -51,7 +51,7 @@ body {
     position: absolute;
     width: 300px;
     height: 300px;
-    background: #2E2A20 url(amazon.png);
+    background: url(amazon.png);
     background-size: 300px;
     background-repeat: no-repeat;
     background-position: center;
