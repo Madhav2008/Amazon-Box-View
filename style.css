@@ -140,6 +140,6 @@ span:nth-child(4) .tape {
     }
 
     100% {
-        transform: rotateX(-30deg) rotateY(360deg);
+        transform: rotateX(-30deg) rotateY(0deg);
     }
 }
