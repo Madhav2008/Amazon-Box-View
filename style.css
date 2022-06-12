@@ -117,5 +117,5 @@ body {
 }
 
 span:nth-child(4) .tape {
-    transform: translateX();
+    transform: translateX(-50%);
 }
