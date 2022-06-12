@@ -51,7 +51,7 @@ body {
     position: absolute;
     width: 200px;
     height: 200px;
-    background: url();
+    background: url(amazon.png);
 }
 
 #box div span:nth-child(2) {
