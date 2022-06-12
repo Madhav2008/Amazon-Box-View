@@ -17,7 +17,7 @@ body {
     height: 300px;
     transform-style: preserve-3d;
     transform: rotateX(-30deg) rotateY(50deg);
-    /* animation: animate 10s linear infinite; */
+    animation: animate 10s linear infinite;
 }
 
 #box::before {
