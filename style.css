@@ -192,6 +192,7 @@ body {
     align-items: center;
     transform: rotateX(90deg) translate3d(0, 0, 150px);
 }
+
 #box1 .top {
     position: absolute;
     top: 0;
