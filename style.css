@@ -81,4 +81,4 @@ body {
 #box div span:nth-child(4) {
     transform: rotateY(270deg) translate3d(0, 0, 150px);
     background: #ca9864;
-}#box .top
+}#box .top{}
