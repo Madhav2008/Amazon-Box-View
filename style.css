@@ -21,7 +21,7 @@ body {
 
 #box::before {
     content: '';
-    position: absolute;
+    position: absolute;top: 0;
 }
 
 #box div {
