@@ -40,4 +40,6 @@ body {
     align-items: center;
 }
 
-#box div span:nth-child(1) {transform: ;}
+#box div span:nth-child(1) {
+    transform: ;
+}
