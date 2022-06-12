@@ -30,5 +30,6 @@ body {
 #box div span {
     position: absolute;
     top: 0;
-    left: 0;width: 100%;
+    left: 0;
+    width: 100%;
 }
