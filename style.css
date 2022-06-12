@@ -136,6 +136,6 @@ span:nth-child(4) .tape {
 
 @keyframes animate {
     0% {
-        transform: rotateX(-30deg);
+        transform: rotateX(-30deg) rotateY(360deg);
     }
 }
