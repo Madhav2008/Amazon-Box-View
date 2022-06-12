@@ -53,7 +53,7 @@ body {
     height: 200px;
     background: url(amazon.png);
     background-size: 200px;
-    background-repeat: no-repeat;
+    background-repeat: no-repeat;background-position: center;
 }
 
 #box div span:nth-child(2) {
