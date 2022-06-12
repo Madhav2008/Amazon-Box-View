@@ -28,5 +28,5 @@ body {
 }
 
 #box div span {
-    position: absolute;
+    position: absolute;top: 0;
 }
