@@ -117,6 +117,7 @@ body {
     background-repeat: no-repeat;
     background-position: center;
 }
+
 #box div span:nth-child(1)::before {
     content: '';
     position: absolute;
