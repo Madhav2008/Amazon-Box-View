@@ -62,7 +62,7 @@ body {
     transform-style: preserve-3d;
 }
 
-#box div {
+#box1 div {
     position: absolute;
     top: 0;
     left: 0;
