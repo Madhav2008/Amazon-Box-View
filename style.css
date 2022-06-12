@@ -117,6 +117,16 @@ body {
     background-repeat: no-repeat;
     background-position: center;
 }
+#box div span:nth-child(1)::before {
+    content: '';
+    position: absolute;
+    width: 300px;
+    height: 300px;
+    background: url(amazon.png);
+    background-size: 300px;
+    background-repeat: no-repeat;
+    background-position: center;
+}
 
 #box div span:nth-child(2) {
     transform: rotateY(90deg) translate3d(0, 0, 150px);
