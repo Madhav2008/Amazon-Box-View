@@ -214,7 +214,7 @@ body {
     background-size: 85px;
 }
 
-#box .top::before {
+#box1 .top::before {
     content: '';
     position: absolute;
     width: 100%;
