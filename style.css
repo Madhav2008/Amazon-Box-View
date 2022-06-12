@@ -114,4 +114,6 @@ body {
     background: #111 url(tape.png);
     background-size: 85px;
     background-position-x: 45px;
-}span:nth-child(4) .tape
+}
+
+span:nth-child(4) .tape
