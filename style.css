@@ -108,7 +108,7 @@ body {
     position: absolute;
     top: 0;
     left: 50%;
-    transform: translateX(-50%)rotate(90deg);
+    transform: translateX(-50%) rotate(90deg);
     width: 120px;
     height: 60px;
     background: #111 url(tape.png);
