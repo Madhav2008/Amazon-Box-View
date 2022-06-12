@@ -84,5 +84,5 @@ body {
 }
 
 #box .top {
-    position: absolute;
+    position: absolute;top: 0;
 }
