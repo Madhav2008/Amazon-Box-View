@@ -67,7 +67,7 @@ body {
     background: #d8aa77;
 }
 
-#box div span:nth-child(1)::before {
+#box div span:nth-child(3)::before {
     content: '';
     position: absolute;
     width: 300px;
