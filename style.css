@@ -251,6 +251,10 @@ span:nth-child(4) .tape {
     transform: translateX(-50%) rotate(270deg);
     background-position-x: 30px;
 }
+span:nth-child(4) .tape {
+    transform: translateX(-50%) rotate(270deg);
+    background-position-x: 30px;
+}
 
 @keyframes animate {
     0% {
