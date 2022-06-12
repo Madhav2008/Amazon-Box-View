@@ -19,5 +19,5 @@ body {
 }
 
 #box div {
-    position: absolute;
+    position: absolute;top: 0;
 }
