@@ -11,4 +11,6 @@ body {
     min-height: 100vh;
 }
 
-#box {position: relative;}
+#box {
+    position: relative;
+}
