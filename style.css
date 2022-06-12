@@ -83,4 +83,6 @@ body {
     background: #ca9864;
 }
 
-#box .top {position: absolute;}
+#box .top {
+    position: absolute;
+}
