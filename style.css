@@ -47,6 +47,6 @@ body {
 }
 
 #box div span:nth-child(2) {
-    transform: rotateY(0deg) translate3d(0, 0, 150px);
+    transform: rotateY(90deg) translate3d(0, 0, 150px);
     background: #d8aa77;
 }
