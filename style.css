@@ -234,6 +234,17 @@ body {
     background-size: 85px;
     background-position-x: 45px;
 }
+.tape {
+    position: absolute;
+    top: 30px;
+    left: 50%;
+    transform: translateX(-50%) rotate(90deg);
+    width: 120px;
+    height: 60px;
+    background: #111 url(tape.png);
+    background-size: 85px;
+    background-position-x: 45px;
+}
 
 span:nth-child(4) .tape {
     transform: translateX(-50%) rotate(270deg);
