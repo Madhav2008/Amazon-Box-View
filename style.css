@@ -192,6 +192,17 @@ body {
     align-items: center;
     transform: rotateX(90deg) translate3d(0, 0, 150px);
 }
+#box .top {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 300px;
+    height: 300px;
+    background: #e8bb84;
+    display: flex;
+    align-items: center;
+    transform: rotateX(90deg) translate3d(0, 0, 150px);
+}
 
 #box .top::before {
     content: '';
