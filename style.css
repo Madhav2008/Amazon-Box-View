@@ -41,5 +41,6 @@ body {
 }
 
 #box div span:nth-child(1) {
-    transform: ;background: #d8aa77;
+    transform: ;
+    background: #d8aa77;
 }
