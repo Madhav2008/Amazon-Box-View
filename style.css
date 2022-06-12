@@ -40,6 +40,7 @@ body {
     transform: rotateX(90deg) translateZ(-220px);
     filter: blur(15px);
 }
+
 #box::before {
     content: '';
     position: absolute;
