@@ -19,7 +19,9 @@ body {
     transform: rotateX(-30deg) rotateY(50deg);
 }
 
-#box::before {content: '';}
+#box::before {
+    content: '';
+}
 
 #box div {
     position: absolute;
