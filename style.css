@@ -48,7 +48,7 @@ body {
 
 #box div span:nth-child(1)::before {
     content: '';
-    position: absolute;
+    position: absolute;width: 200px;
 }
 
 #box div span:nth-child(2) {
