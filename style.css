@@ -41,7 +41,7 @@ body {
     filter: blur(15px);
 }
 
-#box::before {
+#box1::before {
     content: '';
     position: absolute;
     top: 0;
