@@ -19,6 +19,7 @@ body {
     transform: rotateX(-30deg) rotateY(50deg);
     /* animation: animate 10s linear infinite; */
 }
+
 #box1 {
     position: relative;
     width: 300px;
