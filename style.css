@@ -193,7 +193,7 @@ body {
     transform: rotateX(90deg) translate3d(0, 0, 150px);
 }
 
-#box1 .top {
+#box1 .top1 {
     position: absolute;
     top: 0;
     left: 0;
