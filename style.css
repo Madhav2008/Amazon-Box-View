@@ -19,7 +19,7 @@ body {
     transform: rotateX(-30deg) rotateY(50deg);
 }
 
-#box::before{} #box div {
+#box::before {} #box div {
     position: absolute;
     top: 0;
     left: 0;
