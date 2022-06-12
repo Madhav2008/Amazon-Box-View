@@ -118,7 +118,7 @@ body {
     background-position: center;
 }
 
-#box div span:nth-child(1)::before {
+#box1 div span:nth-child(1)::before {
     content: '';
     position: absolute;
     width: 300px;
